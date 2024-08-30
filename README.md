@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-![Header Image](https://your-image-url.com) <!-- Optional: Add a custom header image -->
+![Header Image](./self.jpeg) <!-- Optional: Add a custom header image -->
 
 ## About Me
 

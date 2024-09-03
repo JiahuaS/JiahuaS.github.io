@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-<img src="./self.jpeg" alt="Header Image" width="600"/> <!-- Adjust the width as needed -->
+<img src="./self.jpeg" alt="Header Image" width="400"/> <!-- Adjust the width as needed -->
 
 ## About Me
 

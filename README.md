@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-![Header Image](./self.jpeg = 250x250) <!-- Optional: Add a custom header image -->
+<img src="./self.jpeg" alt="Header Image" width="600"/> <!-- Adjust the width as needed -->
 
 ## About Me
 

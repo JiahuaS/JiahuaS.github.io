@@ -4,16 +4,16 @@
 
 ## About Me
 
-Hello! I'm **Jiahua Song**, a passionate Applied Mathematics Student with a strong interest in Numerical Analysis, PDE, Machine Learning, Computational Fluid Dynamics. I am currently pursuing a Master's degree in Applied Mathematics at Columbia University.
+Hello! I'm **Jiahua Song**, a passionate Applied Mathematics Student with a strong interest in Numerical Analysis, PDE, Machine Learning, Computational Fluid Dynamics. I am currently pursuing a Master's degree in Applied Mathematics at Columbia University, and will go for PhD degree in Mathematics with interest of Applied and Computational Mathematics on August 2025. 
 
 - 🔭 **Current Research**: I am working on Reduced Order Model on Radiative Transfer Equation.
-- 🌱 **Currently Learning**: Analytical Method of PDE, Numerical Analysis of PDE.
-- 💬 **Ask Me About**: Operator Learning, Inverse Problem, PINN, PDE, SDE, Numerical Analysis/Algebra.
-- 📫 **How to Reach Me**: You can contact me via js6409@columbia.edu.
+- 🌱 **Currently Learning**: Elliptic PDE.
+- 💬 **Ask Me About**: Scientific Computing, Operator Learning, Inverse Problem, PDE, SDE, Numerical Analysis/Algebra.
+- 📫 **How to Reach Me**: You can contact me via jiahua.song@utexas.edu.
 
 ## Research Interests
 
-- Research Interest 1 Operator Learning, PDE Solvers, PDE Discovery, Data-Driven Methods, Numerical Method.
+- Research Interest 1 Inverse Problem, Operator Learning, PDE Solvers, Data-Driven Methods, Numerical Analysis.
 - Research Interest 2 CFD, SDE, Optimization, Aerodynamics, Optimal Control, Control Theory & Application. 
 
 ## Projects
@@ -37,6 +37,7 @@ This project is the summary and report of my research work on Spring 2024 in CIE
 
 ## Education
 
+- **Doctor of Philosophy in Mathematics** - The University of Texas at Austin, Aug 2025 - Current
 - **Master of Science in Applied Mathematics** - Columbia University, Aug 2023 - May 2025
 - **Bachelor of Science in Applied Mathematics & Statistics** - University of Connecticut, Aug 2019 - May 2023
 
@@ -48,7 +49,7 @@ This project is the summary and report of my research work on Spring 2024 in CIE
 
 ## Get in Touch
 
-- **Email**: js6409@columbia.edu
+- **Email**: jiahua.song@utexas.edu
 - **LinkedIn**: [https://www.linkedin.com/in/jiahuasong7/](https://www.linkedin.com/in/jiahuasong7/)
 - **Instagram**: [https://www.instagram.com/pcprcjiahua.song/?hl=en](https://www.instagram.com/pcprcjiahua.song/?hl=en)
 

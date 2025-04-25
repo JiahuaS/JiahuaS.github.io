@@ -13,8 +13,27 @@ Hello! I'm **Jiahua Song**, a passionate Applied Mathematics Student with a stro
 
 ## Research Interests
 
-- Research Interest 1 Inverse Problem, Operator Learning, PDE Solvers, Data-Driven Methods, Numerical Analysis.
-- Research Interest 2 CFD, SDE, Optimization, Aerodynamics, Optimal Control, Control Theory & Application. 
+- **Core Areas**: Inverse Problems, Operator Learning, PDE Solvers, Scientific Computing  
+- **Applied Mathematics Focus**: Functional Analysis, PDE, Numerical Analysis, Stochastic Differential Equations (SDEs), Optimization, Computational Fluid Dynamics (CFD), Aerodynamics, Optimal Control, and Control Theory with Applications  
+
+### Research Vision
+
+My research is built upon three foundational directions:
+
+1. **Theoretical Foundations of Machine Learning for PDEs**  
+   Developing a rigorous mathematical theory for deep learning methods applied to forward problems in PDEs.
+
+2. **Inverse Problem Frameworks**  
+   Establishing principled methodologies and identifying new directions in solving inverse problems.
+
+3. **Real-World Applications**  
+   Applying mathematical and computational tools to solve engineering and scientific challenges in areas including:
+   - Probability flow simulation and control  
+   - Social science modeling  
+   - Atmospheric and oceanic sciences  
+   - Earth science  
+   - Aeronautics and astronautics
+It would be my pleasure to exchange ideas with professionals who share interests in the areas above, as well as in related fields such as biological systems modeling, materials science and engineering, energy science, and robotics and autonomous systems. I am always eager to learn and broaden my perspective.
 
 ## Projects
 

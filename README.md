@@ -33,6 +33,7 @@ My research is built upon three foundational directions:
    - Atmospheric and oceanic sciences  
    - Earth science  
    - Aeronautics and astronautics
+
 It would be my pleasure to exchange ideas with professionals who share interests in the areas above, as well as in related fields such as biological systems modeling, materials science and engineering, energy science, and robotics and autonomous systems. I am always eager to learn and broaden my perspective.
 
 ## Projects

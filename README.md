@@ -4,10 +4,10 @@
 
 ## About Me
 
-Hello! I'm **Jiahua Song**, a passionate Applied Mathematics Student with a strong interest in Numerical Analysis, PDE, Machine Learning, Computational Fluid Dynamics. I am currently pursuing a Master's degree in Applied Mathematics at Columbia University, and will go for PhD degree in Mathematics with interest of Applied and Computational Mathematics on August 2025. 
+Hello! I'm **Jiahua Song**, a passionate Applied Mathematics Student with a strong interest in Numerical Analysis, PDE, Machine Learning, Computational Fluid Dynamics. I am currently pursuing a PhD degree in Mathematics with interest of Applied and Computational Mathematics in the University of Texas at Austin. 
 
-- 🔭 **Current Research**: I am working on Reduced Order Model on Radiative Transfer Equation.
-- 🌱 **Currently Learning**: Elliptic PDE.
+- 🔭 **Current Research**: Literature review on the state-of-the-art in deep learning theory and multi-scale PDE.
+- 🌱 **Currently Learning**: Nan.
 - 💬 **Ask Me About**: Scientific Computing, Operator Learning, Inverse Problem, PDE, SDE, Numerical Analysis/Algebra.
 - 📫 **How to Reach Me**: You can contact me via jiahua.song@utexas.edu.
 
@@ -63,7 +63,7 @@ This project is the summary and report of my research work on Spring 2024 in CIE
 
 ## Skills
 
-- **Programming Languages**: Python, MATLAB, R, SAS, SQL
+- **Programming Languages**: Python, MATLAB, SQL
 - **Tools**: TensorFlow, Git, LaTex
 - **Mathematical Methods**: FDM/FEM/FVM/Spectral Method
 

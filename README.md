@@ -8,8 +8,8 @@ Hello! I'm **Jiahua Song**, a passionate Applied Mathematics Student with a stro
 
 - 🔭 **Current Research**: Literature review on the state-of-the-art in deep learning theory and multi-scale PDE.
 - 🌱 **Currently Learning**: Taking: M381C, M383C, M387C, M398T;
--                            Auditing: M385C, M393C Math Foundation for Generative AI, M393C Tensors Method;
--                            TA: M427L Advanced Calculus for Application II.  
+                             Auditing: M385C, M393C Math Foundation for Generative AI, M393C Tensors Method;
+                             TA: M427L Advanced Calculus for Application II.  
 - 💬 **Ask Me About**: Scientific Computing, Operator Learning, Inverse Problem, PDE, SDE, Numerical Analysis/Algebra.
 - 📫 **How to Reach Me**: You can contact me via jiahua.song@utexas.edu.
 

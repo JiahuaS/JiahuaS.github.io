@@ -6,10 +6,9 @@
 
 Hello! I'm **Jiahua Song**, a passionate Applied Mathematics Student with a strong interest in Numerical Analysis, PDE, Machine Learning, Computational Fluid Dynamics. I am currently pursuing a PhD degree in Mathematics with interest of Applied and Computational Mathematics in the University of Texas at Austin. 
 
-- 🔭 **Current Research**: Literature review on the state-of-the-art in deep learning theory and multi-scale PDE.
-- 🌱 **Currently Learning**: Taking: M381C, M383C, M387C, M398T;
-                             Auditing: M385C, M393C Math Foundation for Generative AI, M393C Tensors Method;
-                             TA: M427L Advanced Calculus for Application II.  
+- 🔭 **Current Research**: Literature review in deep learning theory and multi-scale PDE.
+- 🌱 **Currently Learning**: Taking: M996D Conference Course (Research);
+                             TA: M361 Theory of Function of Complex Variable, M348 Scientific Computation in Numerical Analysis.  
 - 💬 **Ask Me About**: Scientific Computing, Operator Learning, Inverse Problem, PDE, SDE, Numerical Analysis/Algebra.
 - 📫 **How to Reach Me**: You can contact me via jiahua.song@utexas.edu.
 

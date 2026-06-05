@@ -1,79 +1,100 @@
-# Welcome to My GitHub Profile
+# Jiahua Song
 
-<img src="./self.jpeg" alt="Header Image" width="300"/> <!-- Adjust the width as needed -->
+<center>
+<img src="./self.jpeg" alt="Profile Image" width="260"/>
+</center>
 
 ## About Me
 
-Hello! I'm **Jiahua Song**, a passionate Applied Mathematics Student with a strong interest in Numerical Analysis, PDE, Machine Learning, Computational Fluid Dynamics. I am currently pursuing a PhD degree in Mathematics with interest of Applied and Computational Mathematics in the University of Texas at Austin. 
+I am a Ph.D. student in Mathematics at **The University of Texas at Austin**, with interests in applied and computational mathematics. My research focuses on numerical methods, PDEs, scientific machine learning, multiscale modeling, reduced-order modeling, and generative models for scientific computing.
 
-- 🔭 **Current Research**: Literature review in deep learning theory and multi-scale PDE.
-- 🌱 **Currently Learning**: Taking: M996D Conference Course (Research);
-                             TA: M361 Theory of Function of Complex Variable, M348 Scientific Computation in Numerical Analysis.  
-- 💬 **Ask Me About**: Scientific Computing, Operator Learning, Inverse Problem, PDE, SDE, Numerical Analysis/Algebra.
-- 📫 **How to Reach Me**: You can contact me via jiahua.song@utexas.edu.
-
-## Research Interests
-
-- **Core Areas**: Inverse Problems, Operator Learning, PDE Solvers, Scientific Computing  
-- **Applied Mathematics Focus**: Functional Analysis, PDE, Numerical Analysis, Stochastic Differential Equations (SDEs), Optimization, Computational Fluid Dynamics (CFD), Aerodynamics, Optimal Control, and Control Theory with Applications  
-
-### Research Vision
-
-My research is built upon three foundational directions:
-
-1. **Theoretical Foundations of Machine Learning for PDEs**  
-   Developing a rigorous mathematical theory for deep learning methods applied to forward problems in PDEs.
-
-2. **Inverse Problem Frameworks**  
-   Establishing principled methodologies and identifying new directions in solving inverse problems.
-
-3. **Real-World Applications**  
-   Applying mathematical and computational tools to solve engineering and scientific challenges in areas including:
-   - Probability flow simulation and control  
-   - Social science modeling  
-   - Atmospheric and oceanic sciences  
-   - Earth science  
-   - Aeronautics and astronautics
-
-It would be my pleasure to exchange ideas with professionals who share interests in the areas above, as well as in related fields such as biological systems modeling, materials science and engineering, energy science, and robotics and autonomous systems. I am always eager to learn and broaden my perspective.
-
-## Projects
-
-### Optimal Basis for Radiative Transfer Equation
-
-The project aims to find optimal basis for radiative transfer equation 
-$
-\frac{1}{c} \frac{\partial I(t, x, v)}{\partial t} + v \cdot \nabla I(t, x, v) + \kappa(x) I(t, x, v) = j(x, v) + \sigma_s(x) \int_{S^{n-1}} p(v', v) I(t, x, v') dv'.
-$ As you see, the term "optimal" is subjective. We will based on some techniques in discretization and numerical method combined with the data-drive method to solve this problem so that the solution can be represented as fewest modes in some sense. This is a reduced order model, so it lowers the computational costs a lot. All related computational intense method in engineering related to radiative transfer can use the method. For example, the RTE is used to model the transfer of radiation through stellar atmospheres, interstellar dust clouds, and other astrophysical media. It is used to understand how sunlight interacts with the Earth's atmosphere, which is crucial for climate modeling and remote sensing. The RTE is applied in optical tomography, where it helps to model the propagation of light through biological tissues.
-
-### Operator Learning
-
-Operator learning is a computational method trying to recover or approximate the operator. Given a set of input functions and output functions data $\{f_i, g_i\}_{i\in \mathcal{D}}$, we need to build a computational method using the data to approximate what operator did this action. Mathematically, given $\{f_i, g_i\}_{i\in \mathcal{D}}$, where $\mathcal{D}$ is the dataset, $f_i\in \mathcal{X}$, $g_i\in \mathcal{Y}$ and $\mathcal{X}, \mathcal{Y}$ are function spaces on a $n$-dimensional spatical domain $\Omega \subset \mathbb{R}^n$, there is a unknown operator $\mathcal{A}: \mathcal{X}\to \mathcal{Y}$ such that $\mathcal{A}(f_i)=g_i$ for all $i$. To find this operator $\mathcal{A}$, we need to construct a computational method based on the dataset $\mathcal{D}$. The method may have some problems like ill-posedness. However, given some constraints, rules, and construction of the method, we can deal with the problem of ill-posedness and have an accurate and fast algorithm for approximant $\mathcal{\hat{A}}$ of $\mathcal{A}$ for some specific type of PDE due to the nature of PDE. Therefore, we propose a new theoretical method combining Roe's idea for solving linear hyperbolic systems and neural operators to find the solution operator of the quasi-linear hyperbolic system. 
-
-### Pysics-Informed Neural Network
-
-This project is the summary and report of my research work on Spring 2024 in CIEN 9101. Physics-informed neural network (PINN) or Physics-informed deep learning is a new topic in machine learning. The fundamentals of PINN originated from the work of Marziar Raissi of Prof. George Karniadarkis' group in 2017 titled: Physics Informed Deep Learning:Data-driven Solutions of Nonlinear Partial Differential Equations. It was later accepted by the Journal of Computational Physics. The complete work is separated into two main parts. One is an inverse problem; one is a forward problem. In this project, we will introduce a new method, Nontrivial Transform Method (NTM), for discovering the partial differential equations (PDE) by using the PINN method, find some interesting points raised from other related papers, and further extensions on the papers we are interested in for finding new PDEs based on the dataset. The NTM takes advantage of idea of continuous transform for simpler expression based on the symbolic regressions like PEQL and SGA-PDE, and find the simplests expression of PDE for given data with continuous transform constrains.
-
-
-
-## Education
-
-- **Doctor of Philosophy in Mathematics** - The University of Texas at Austin, Aug 2025 - Current
-- **Master of Science in Applied Mathematics** - Columbia University, Aug 2023 - May 2025
-- **Bachelor of Science in Applied Mathematics & Statistics** - University of Connecticut, Aug 2019 - May 2023
-
-## Skills
-
-- **Programming Languages**: Python, MATLAB, SQL
-- **Tools**: TensorFlow, Git, LaTex
-- **Mathematical Methods**: FDM/FEM/FVM/Spectral Method
-
-## Get in Touch
-
-- **Email**: jiahua.song@utexas.edu
-- **LinkedIn**: [https://www.linkedin.com/in/jiahuasong7/](https://www.linkedin.com/in/jiahuasong7/)
-- **Instagram**: [https://www.instagram.com/pcprcjiahua.song/?hl=en](https://www.instagram.com/pcprcjiahua.song/?hl=en)
+**My current work studies neural-network-based solvers for multiscale dynamical systems, with emphasis on structure-preserving technique, effective approximation.**
 
 ---
 
-Thank you for visiting my GitHub profile! I am always open to collaboration and discussions on any Applied Math topics. Feel free to reach out!
+## Research Interests
+
+My research interests lie at the intersection of **PDEs, numerical analysis, and machine learning**. In particular, I am interested in:
+
+1. **Mathematical Foundations of Machine Learning for PDEs**
+   Theory of neural networks and scientific machine learning, including approximation, optimization, generalization, structure, loss design, and stability for PDE-based problems.
+
+2. **Multiscale Modeling and Structure-Preserving Solvers**
+   Numerical and learning-based methods for multiscale dynamical systems, with attention to slow variables, effective dynamics, invariant structures, and efficient time integration.
+
+3. **Generative Models for Scientific Computing**
+   SDEs, probability flows, diffusion-type models, and generative methods for modeling, simulation, inverse problems, and uncertainty quantification.
+
+4. **Reduced-Order Modeling and Operator Learning**
+   Low-dimensional representation of high-dimensional PDE solutions, reduced basis methods, POD/ROM, neural operators, and data-driven solution operators.
+
+Overall, my goal is to develop mathematically principled and computationally efficient methods for forward and inverse problems in scientific computing. They should be useful in industry and Academia. 
+
+---
+
+## Selected Research Projects
+### Data-Driven Reduced-Order Model for Radiative Transfer Equation
+
+**Supervisor: Kui Ren**
+**Collaborators: Yinxi Pan, Shanyin Tong**
+
+This project develops reduced-order models for the radiative transfer equation, focusing on the angular-averaged local density rather than the full phase-space solution. We use an integral formulation of isotropic radiative transport and construct a data-driven reduced basis from full-order simulations generated by upwind discretization, discrete ordinates, and source iteration. The resulting offline-online reduced model uses SVD-based basis selection to efficiently approximate solutions for new source functions, achieving significant computational savings while maintaining good accuracy in one- and two-dimensional numerical experiments.
+
+
+### Operator Learning for Quasi-Linear Hyperbolic Systems
+
+**Supervisor: Kui Ren**
+
+This project develops a theoretical framework for learning solution operators of quasi-linear hyperbolic PDEs. Motivated by Roe’s linearization and characteristic decomposition, the method learns Roe-average states and characteristic variables, then combines PINN and Fourier Neural Operator components to solve the decoupled characteristic equations efficiently. The goal is to build structure-aware neural operators for high-dimensional hyperbolic systems with continuous or discontinuous initial data.
+
+
+### Physics-Informed Neural Networks for PDE Discovery
+
+**Supervisor: Sharon Di**
+
+This project studies inverse problems for discovering PDEs from data using physics-informed neural networks and symbolic regression. I proposed the **Nontrivial Transformation Method**, which searches for hidden relations among candidate PDE expressions under suitable transformations. The method combines PINN-based modeling with PEQL and SGA-PDE to identify interpretable governing equations, and was tested on benchmark examples such as the heat equation.
+
+
+### Stability Analysis of LMM
+
+**Supervisor: Qiang Du**
+
+This project studies the stability of numerical time-integration methods for large ODE systems arising from scientific computing and semi-discretized PDEs. Motivated by Eitan Tadmor’s numerical-range-based stability theory for Runge-Kutta methods (https://arxiv.org/abs/2312.15546), I investigated how this framework can be extended beyond classical RK schemes. In particular, I partially extended the same stability technique to linear multistep methods, aiming to understand dimension-independent stability criteria for high-dimensional dynamical systems.
+
+
+---
+
+## Education
+
+* **Ph.D. in Mathematics**, The University of Texas at Austin, 2025–Present
+* **M.S. in Applied Mathematics**, Columbia University, 2023–2025
+* **B.S. in Applied Mathematics and Statistics**, University of Connecticut, 2019–2023
+
+---
+
+## CPU
+
+* **Programming**: Python, MATLAB
+* **Packages**: PyTorch, neural operators, DeepXDE
+* **Mathematics**:
+*   M381C: Real Analysis [DONE], M381D: Complex Analysis [Plan]
+*   M383C: Applied Math I [DONE], M383D: Applied Math II [Almost]
+*   M385C: Theory of Probability I [Working], M385D: Theory of Probability II [Working]
+*   M387C: Numercal Methods [DONE], M387D: Numerical PDE [Working]
+
+*   [Not in the Plan] M380C: Algebra I, M380D: Algebra II
+*   [Not in the Plan] M382C: Algebraic Topology, M382D: Differetial Topology
+* **Topics**:
+*   Analysis: PDE I [Plan], PDE II [Plan]
+*   Applied and computational mathematics: Mathematics in Deep Learning [Plan], Foundational techniques in Machine Learning and Data Science [Plan]
+*   Probability: Stochastic Processes I [Plan], Topics in Stochastic Analysis [Plan]
+*   Algebra and dynamics: Dynamical Systems [Plan]
+
+---
+
+## Contact
+
+I am always open to discussions and collaborations in applied mathematics, scientific computing, numerical PDEs, and machine learning for scientific problems.
+
+* **Email**: [jiahua.song@utexas.edu](mailto:jiahua.song@utexas.edu)
+* **LinkedIn**: [linkedin.com/in/jiahuasong7](https://www.linkedin.com/in/jiahuasong7/)

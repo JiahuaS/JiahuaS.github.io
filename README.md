@@ -106,20 +106,6 @@ I am always open to discussions and collaborations in applied mathematics, scien
 
 
 ---
-
-<table>
-<tr>
-<td>
-
-### Copyright & Usage
-
-© 2026 Jiahua Song. All rights reserved.
-
-This repository is shared for viewing and academic reference only. Commercial use, redistribution, modification, or incorporation into products, services, or business materials requires prior written permission from the author.
-
-For permission requests, please contact: [jiahua.song@utexas.edu](mailto:jiahua.song@utexas.edu).
-
-</td>
-</tr>
-</table>
-
+<p align="center">
+  © 2026 Jiahua Song. All rights reserved.
+</p>

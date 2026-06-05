@@ -1,4 +1,4 @@
-# Jiahua Song
+# <center>Jiahua Song<\center>
 
 <center>
 <img src="./self.jpeg" alt="Profile Image" width="260"/>

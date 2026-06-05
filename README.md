@@ -103,3 +103,9 @@ I am always open to discussions and collaborations in applied mathematics, scien
 
 * **Email**: [jiahua.song@utexas.edu](mailto:jiahua.song@utexas.edu)
 * **LinkedIn**: [linkedin.com/in/jiahuasong7](https://www.linkedin.com/in/jiahuasong7/)
+
+
+© 2026 Jiahua Song. All rights reserved.
+
+This document is shared for viewing and academic reference only. Commercial use, redistribution, modification, or incorporation into products, services, or business materials requires prior written permission from the author.
+

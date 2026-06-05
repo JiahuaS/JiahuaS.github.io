@@ -90,10 +90,10 @@ This project studies the stability of numerical time-integration methods for lar
 
 
 * **Topics**:
-      * Analysis: PDE I [Plan], PDE II [Plan]
-      * Applied and computational mathematics: Mathematics in Deep Learning [Plan], Foundational techniques in Machine Learning and Data Science [Plan]
-      * Probability: Stochastic Processes I [Plan], Topics in Stochastic Analysis [Plan]
-      * Algebra and dynamics: Dynamical Systems [Plan]
+  * Analysis: PDE I [Plan], PDE II [Plan]
+  * Applied and computational mathematics: Mathematics in Deep Learning [Plan], Foundational techniques in Machine Learning and Data Science [Plan]
+  * Probability: Stochastic Processes I [Plan], Topics in Stochastic Analysis [Plan]
+  * Algebra and dynamics: Dynamical Systems [Plan]
 
 ---
 

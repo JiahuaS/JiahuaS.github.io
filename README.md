@@ -77,13 +77,22 @@ This project studies the stability of numerical time-integration methods for lar
 * **Programming**: Python, MATLAB
 * **Packages**: PyTorch, neural operators, DeepXDE
 * **Mathematics**:
-      M381C: Real Analysis [DONE], M381D: Complex Analysis [Plan]
-      M383C: Applied Math I [DONE], M383D: Applied Math II [Almost]
-      M385C: Theory of Probability I [Working], M385D: Theory of Probability II [Working]
-      M387C: Numercal Methods [DONE], M387D: Numerical PDE [Working]
+  * M381C: Real Analysis [[DONE](./assets/pdfs/M381C.pdf)]
+  * M381D: Complex Analysis [Plan]
 
-      [Not in the Plan] M380C: Algebra I, M380D: Algebra II
-      [Not in the Plan] M382C: Algebraic Topology, M382D: Differetial Topology
+  * M383C: Applied Math I [[DONE](./assets/pdfs/M383C.pdf)]
+  * M383D: Applied Math II [Almost]
+
+  * M385C: Theory of Probability I [Working]
+  * M385D: Theory of Probability II [Working]
+
+  * M387C: Numerical Methods [[DONE](./assets/pdfs/M387C.pdf)]
+  * M387D: Numerical PDE [Working]
+
+  * [Not in the Plan] M380C: Algebra I, M380D: Algebra II
+  * [Not in the Plan] M382C: Algebraic Topology, M382D: Differential Topology
+
+
 * **Topics**:
       Analysis: PDE I [Plan], PDE II [Plan]
       Applied and computational mathematics: Mathematics in Deep Learning [Plan], Foundational techniques in Machine Learning and Data Science [Plan]

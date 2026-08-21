@@ -79,9 +79,9 @@ This project studies the stability of numerical time-integration methods for lar
 * **Mathematics**:
   * M381C: Real Analysis [[DONE](./M381C.pdf)] -- M381D: Complex Analysis [Plan]
 
-  * M383C: Applied Math I [[DONE](./M383C.pdf)] -- M383D: Applied Math II [Almost]
+  * M383C: Applied Math I [[DONE](./M383C.pdf)] -- M383D: Applied Math II [[DONE](./M383D.pdf)]
 
-  * M385C: Theory of Probability I [Working] -- M385D: Theory of Probability II [Working]
+  * M385C: Theory of Probability I [Almost] -- M385D: Theory of Probability II [Working]
 
   * M387C: Numerical Methods [[DONE](./M387C.pdf)] -- M387D: Numerical PDE [Working]
 
@@ -91,7 +91,7 @@ This project studies the stability of numerical time-integration methods for lar
 
 * **Topics**:
   * Analysis: PDE I [Plan], PDE II [Plan]
-  * Applied and computational mathematics: Mathematics in Deep Learning [Plan], Foundational techniques in Machine Learning and Data Science [Plan]
+  * Applied and computational mathematics: Mathematics in Deep Learning [Working], Foundational techniques in Machine Learning and Data Science [Plan]
   * Probability: Stochastic Processes I [Plan], Topics in Stochastic Analysis [Plan]
   * Algebra and dynamics: Dynamical Systems [Plan]
 

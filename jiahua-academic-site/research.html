@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Academic website of Jiahua Song, Ph.D. student in Mathematics at The University of Texas at Austin.">
+<title>Research | Jiahua Song</title>
+<link rel="stylesheet" href="assets/style.css"><link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<script>try{var t=localStorage.getItem('jiahua-site-theme');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
+</head><body>
+<header class="topbar"><div class="wrap header-inner">
+<a href="index.html" class="brand">Jiahua Song<span class="brand-dot">.</span></a>
+<nav class="nav" aria-label="Main navigation"><a href="index.html">Home</a>
+<a href="research.html" class="active" aria-current="page">Research</a>
+<a href="notes.html">Notes</a>
+<a href="teaching.html">Teaching</a>
+<a href="cv.html">CV</a></nav>
+<button class="theme-btn" type="button" data-theme-toggle aria-label="Toggle dark mode" title="Toggle light/dark theme">☾</button>
+</div></header>
+<main class="wrap"><div class="page-intro"><div class="eyebrow">Research</div><h1>Research & projects<span class="brand-dot">.</span></h1><p>My interests span numerical PDEs, multiscale dynamical systems, scientific machine learning, operator learning, and reduced-order modeling. I aim to connect mathematical foundations with reliable computation.</p></div>
+<section class="section"><div class="section-head"><h2>Research directions</h2></div><div class="grid">
+<article class="card"><h3>Mathematical Foundations of ML for PDEs</h3><p>Neural network approximation and optimization, generalization, structural constraints, loss design, and stability.</p></article>
+<article class="card"><h3>Multiscale Modeling</h3><p>Slow variables, effective dynamics, invariants, and structure-preserving integration.</p></article>
+<article class="card"><h3>Generative Models</h3><p>SDEs, probability flows, diffusion-type models, simulation, inverse problems, and UQ.</p></article>
+<article class="card"><h3>ROM & Operator Learning</h3><p>Reduced basis methods, POD, neural operators, and data-driven solution maps.</p></article>
+</div></section>
+<section class="section"><div class="section-head"><h2>Selected projects</h2></div>
+<div class="stack">
+<article class="card project" id="rte"><div class="kicker">Reduced-order modeling</div><h3>Data-Driven Reduced-Order Model for Radiative Transfer Equation</h3><div class="meta"><strong>Supervisor:</strong> Kui Ren &nbsp;·&nbsp; <strong>Collaborators:</strong> Yinxi Pan, Shanyin Tong</div><p>This project develops reduced-order models for the radiative transfer equation, focusing on angular-averaged local density rather than the full phase-space solution. Starting from an integral formulation of isotropic transport, we construct a data-driven reduced basis from full-order simulations using upwind discretization, discrete ordinates, and source iteration. An SVD-based offline–online model efficiently approximates solutions for new source functions, with encouraging results in one- and two-dimensional experiments.</p><div class="tags"><span class="tag">RTE</span><span class="tag">POD / ROM</span><span class="tag">Numerical PDEs</span></div></article>
+<article class="card project" id="hyperbolic"><div class="kicker">Operator learning</div><h3>Operator Learning for Quasi-Linear Hyperbolic Systems</h3><div class="meta"><strong>Supervisor:</strong> Kui Ren</div><p>This project explores solution-operator learning for quasi-linear hyperbolic PDEs. Motivated by Roe linearization and characteristic decomposition, it learns Roe-average states and characteristic variables, and combines physics-informed and Fourier neural operator components to solve decoupled characteristic equations. The aim is structure-aware operator learning for systems with smooth or discontinuous initial data.</p><div class="tags"><span class="tag">Hyperbolic PDEs</span><span class="tag">Roe linearization</span><span class="tag">FNO</span></div></article>
+<article class="card project" id="discovery"><div class="kicker">Inverse problems</div><h3>Physics-Informed Neural Networks for PDE Discovery</h3><div class="meta"><strong>Supervisor:</strong> Sharon Di</div><p>In this project I studied identifying governing PDEs from data using physics-informed neural networks and symbolic regression. I proposed the <strong>Nontrivial Transformation Method</strong> to uncover hidden relations among candidate PDE expressions under suitable transformations. The approach combines PINN-based modeling with PEQL and SGA-PDE and was explored using benchmark problems including the heat equation.</p><div class="tags"><span class="tag">PINNs</span><span class="tag">PDE discovery</span><span class="tag">Symbolic regression</span></div></article>
+<article class="card project" id="stability"><div class="kicker">Numerical analysis</div><h3>Stability Analysis of Linear Multistep Methods</h3><div class="meta"><strong>Supervisor:</strong> Qiang Du</div><p>This project examines stability of time-integration schemes for large ODE systems arising in scientific computing and semidiscretized PDEs. Inspired by <a href="https://arxiv.org/abs/2312.15546" target="_blank" rel="noopener noreferrer">numerical-range-based stability theory for Runge–Kutta methods ↗</a>, I investigated a partial extension of related techniques to linear multistep methods, with the longer-term goal of dimension-independent stability criteria.</p><div class="tags"><span class="tag">LMM</span><span class="tag">Stability</span><span class="tag">Numerical range</span></div></article>
+</div></section></main>
+<footer class="foot"><div class="wrap foot-inner"><span>© 2026 Jiahua Song · Mathematics · UT Austin</span><span><a href="mailto:jiahua.song@utexas.edu">Email</a> · <a href="https://www.linkedin.com/in/jiahuasong7/" target="_blank" rel="noopener noreferrer">LinkedIn</a></span></div></footer>
+<script src="assets/site.js" defer></script></body></html>
